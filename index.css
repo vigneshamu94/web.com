@@ -2,7 +2,7 @@ body{
     background: #008888;
     display: grid;
     place-items:center;
-    height: 130vh;
+    height: 120vh;
     margin:0;
     font-family: 'Open Sans', 'sans-serif';
 }
