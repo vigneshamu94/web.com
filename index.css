@@ -10,7 +10,7 @@ body{
 .card{
     background-color: #f682b2;
     border-radius:2px;
-    height:100vh;
+    height:110vh;
     width:85vw;
     box-shadow: 0 3px 6px rgba(0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     text-align: center;
