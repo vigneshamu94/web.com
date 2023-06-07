@@ -42,7 +42,7 @@ img  {
 
 .intro{
     font-size: 20px;
-    font-family: 'Latha', sans-serif;
+    font-family: 'open sans', 'sans-serif';
 }
 
 .muted {
@@ -71,7 +71,7 @@ img  {
 .hello{
     font-size: 20px;
     color:black;
-    text: decoration line #008888 ;
+    text-decoration-color: #008888;
 }
 
 
