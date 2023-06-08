@@ -98,7 +98,7 @@ img  {
 .button:hover {
     background-color:#f80303;
     transition: 0.7s;
-    border-radius: 50%;
+    border-radius: 20px;
 
 
 }
