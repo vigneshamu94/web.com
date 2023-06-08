@@ -2,7 +2,7 @@ body{
     background: #008888;
     display: grid;
     place-items:center;
-    height: 150vh;
+    height: 170vh;
     margin:0;
     font-family: 'Open Sans', 'sans-serif';
 }
@@ -11,7 +11,7 @@ body{
 .card{
     background-color: #f682b2;
     border-radius:2px;
-    height:130vh;
+    height:150vh;
     width:85vw;
     box-shadow: 0 3px 6px rgba(0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     text-align: center;
