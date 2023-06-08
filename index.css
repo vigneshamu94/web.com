@@ -2,15 +2,16 @@ body{
     background: #008888;
     display: grid;
     place-items:center;
-    height: 120vh;
+    height: 150vh;
     margin:0;
     font-family: 'Open Sans', 'sans-serif';
 }
 
+
 .card{
     background-color: #f682b2;
     border-radius:2px;
-    height:110vh;
+    height:130vh;
     width:85vw;
     box-shadow: 0 3px 6px rgba(0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     text-align: center;
@@ -30,10 +31,14 @@ img  {
     border-radius: 50%;
     overflow:visible;
     margin-top: 80px ;
-    object-fit: co;
+    object-fit: cover;
 
 
 
+}
+
+.flowers{
+    
 }
 
 .text{
@@ -42,7 +47,7 @@ img  {
 
 .intro{
     font-size: 20px;
-    font-family: 'open sans', 'sans-serif';
+
 }
 
 .muted {
@@ -53,6 +58,15 @@ img  {
     text-shadow: 1px 1px;
 
 }
+
+.muted:hover{
+    background-color:#fb9404;
+    transition: 0.7s;
+    border-radius: 20px;
+
+
+}
+
 
 .para{
     font-weight: 600;
@@ -71,10 +85,24 @@ img  {
 .hello{
     font-size: 20px;
     color:black;
-    text-decoration-color: #008888;
+    text-decoration-color: #008888 ;
 }
+
 
 
 .space{
     height: 1px;
+}
+
+
+.button:hover {
+    background-color:#f80303;
+    transition: 0.7s;
+    border-radius: 50%;
+
+
+}
+
+.birthday{
+    border-radius: 50%;
 }
